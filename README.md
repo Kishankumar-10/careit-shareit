@@ -29,33 +29,33 @@
 
 ## ✨ Features
 
-| Module | What It Delivers |
-|--------|-------------------|
-| Authentication | Firebase Phone Authentication with OTP-based sign in flow |
-| Onboarding | Mobile number entry, OTP verification, location permission, and profile completion |
-| Donor Experience | Create food donation listings with quantity, food type, timing, pickup address, and notes |
-| Receiver Experience | Browse available donations, view distance from current location, and accept pickups |
-| Real-Time Data | Firestore-backed donation feed with live updates for available, accepted, and completed states |
-| Location Awareness | Uses `geolocator` and `geocoding` to capture user location and estimate receiver distance |
-| Personal Dashboard | Home view surfaces greetings, current activity, and quick actions for donor and receiver flows |
-| Profile Management | View and edit profile details, location data, and donation summary from one screen |
-| Cross-Platform Base | Flutter codebase with Android, iOS, Web, Windows, and macOS project scaffolding |
+| Module              | What It Delivers                                                                               |
+| ------------------- | ---------------------------------------------------------------------------------------------- |
+| Authentication      | Firebase Phone Authentication with OTP-based sign in flow                                      |
+| Onboarding          | Mobile number entry, OTP verification, location permission, and profile completion             |
+| Donor Experience    | Create food donation listings with quantity, food type, timing, pickup address, and notes      |
+| Receiver Experience | Browse available donations, view distance from current location, and accept pickups            |
+| Real-Time Data      | Firestore-backed donation feed with live updates for available, accepted, and completed states |
+| Location Awareness  | Uses `geolocator` and `geocoding` to capture user location and estimate receiver distance      |
+| Personal Dashboard  | Home view surfaces greetings, current activity, and quick actions for donor and receiver flows |
+| Profile Management  | View and edit profile details, location data, and donation summary from one screen             |
+| Cross-Platform Base | Flutter codebase with Android, iOS, Web, Windows, and macOS project scaffolding                |
 
 ---
 
 ## 🧰 Tech Stack
 
-| Category | Technologies |
-|----------|--------------|
-| Framework | Flutter |
-| Language | Dart |
-| Backend | Firebase |
-| Authentication | Firebase Authentication |
-| Database | Cloud Firestore |
-| Storage | Firebase Storage |
-| Location | Geolocator, Geocoding |
-| Utilities | Intl, URL Launcher |
-| Tooling | FlutterFire CLI, Flutter Native Splash, Flutter Launcher Icons |
+| Category       | Technologies                                                   |
+| -------------- | -------------------------------------------------------------- |
+| Framework      | Flutter                                                        |
+| Language       | Dart                                                           |
+| Backend        | Firebase                                                       |
+| Authentication | Firebase Authentication                                        |
+| Database       | Cloud Firestore                                                |
+| Storage        | Firebase Storage                                               |
+| Location       | Geolocator, Geocoding                                          |
+| Utilities      | Intl, URL Launcher                                             |
+| Tooling        | FlutterFire CLI, Flutter Native Splash, Flutter Launcher Icons |
 
 ---
 
@@ -63,15 +63,15 @@
 
 <table>
   <tr>
-    <td align="center" width="50%"><img src="screenshots/splash_screen00.jpeg" alt="Splash Screen" width="350" /></td>
-    <td align="center" width="50%"><img src="screenshots/mobile_number_screen01.jpeg" alt="Mobile Number Screen" width="350" /></td>
+    <td align="center" width="30%"><img src="screenshots/splash_screen00.jpeg" alt="Splash Screen" width="300" /></td>
+    <td align="center" width="30%"><img src="screenshots/mobile_number_screen01.jpeg" alt="Mobile Number Screen" width="300" /></td>
   </tr>
   <tr>
     <td align="center"><sub><b>Splash Screen</b></sub></td>
     <td align="center"><sub><b>Mobile Number Login</b></sub></td>
   </tr>
   <tr>
-    <td align="center" width="50%"><img src="screenshots/otp_screen02.jpeg" alt="OTP Verification Screen" width="350" /></td>
+    <td align="center" width="30%"><img src="screenshots/otp_screen02.jpeg" alt="OTP Verification Screen" width="300" /></td>
     <td align="center" width="50%"><img src="screenshots/home_screen03.jpeg" alt="Home Screen" width="350" /></td>
   </tr>
   <tr>
@@ -150,13 +150,13 @@ careit_shareit/
 
   <br />
 
-  Make sure the following are installed before running the app:
+Make sure the following are installed before running the app:
 
-  - Flutter SDK
-  - Dart SDK
-  - Android Studio or VS Code
-  - Firebase project access
-  - Android SDK / Xcode tools for target platforms
+- Flutter SDK
+- Dart SDK
+- Android Studio or VS Code
+- Firebase project access
+- Android SDK / Xcode tools for target platforms
 </details>
 
 <details>
@@ -164,12 +164,13 @@ careit_shareit/
 
   <br />
 
-  ```bash
-  git clone https://github.com/Kishankumar-10/careit-shareit.git
-  cd careit-shareit
-  flutter pub get
-  flutter run
-  ```
+```bash
+git clone https://github.com/Kishankumar-10/careit-shareit.git
+cd careit-shareit
+flutter pub get
+flutter run
+```
+
 </details>
 
 <details>
@@ -177,13 +178,14 @@ careit_shareit/
 
   <br />
 
-  ```bash
-  flutter clean
-  flutter pub get
-  flutter analyze
-  flutter test
-  flutter run -d chrome
-  ```
+```bash
+flutter clean
+flutter pub get
+flutter analyze
+flutter test
+flutter run -d chrome
+```
+
 </details>
 
 ---
@@ -232,12 +234,12 @@ flowchart TD
     G --> J[Donations Collection]
 ```
 
-| Layer | Responsibility |
-|-------|----------------|
-| UI | Screens, widgets, navigation, and user interactions |
-| Repositories | Encapsulate auth, profile, and location access |
-| Services | Direct integration with Firebase Auth, Firestore, and location APIs |
-| Models | Typed app data for donations, user location, and profiles |
+| Layer        | Responsibility                                                      |
+| ------------ | ------------------------------------------------------------------- |
+| UI           | Screens, widgets, navigation, and user interactions                 |
+| Repositories | Encapsulate auth, profile, and location access                      |
+| Services     | Direct integration with Firebase Auth, Firestore, and location APIs |
+| Models       | Typed app data for donations, user location, and profiles           |
 
 ---
 
@@ -258,12 +260,6 @@ flowchart TD
 <div align="center">
   <strong>Author</strong><br />
   Kishan Kumar
-  <br /><br />
-  <strong>GitHub</strong><br />
-  <a href="https://github.com/Kishankumar-10">github.com/Kishankumar-10</a>
-  <br /><br />
-  <strong>LinkedIn</strong><br />
-  <a href="https://www.linkedin.com/in/your-linkedin-handle/">Add your LinkedIn profile</a>
   <br /><br />
   If you found this project useful, consider giving it a ⭐
 </div>
