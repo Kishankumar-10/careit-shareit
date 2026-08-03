@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "691016247167",
+    "firebase_url": "https://careitshareit-7d100-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "careitshareit-7d100",
+    "storage_bucket": "careitshareit-7d100.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691016247167:android:49e0d6203fcbc7458c5c4a",
+        "android_client_info": {
+          "package_name": "com.careitshareit.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPcThPkElI4jE3VblYz170u8jYOSh0Wfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
