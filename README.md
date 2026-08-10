@@ -63,39 +63,39 @@
 
 <table>
   <tr>
-    <td align="center" width="30%"><img src="screenshots/splash_screen00.jpeg" alt="Splash Screen" width="300" /></td>
-    <td align="center" width="30%"><img src="screenshots/mobile_number_screen01.jpeg" alt="Mobile Number Screen" width="300" /></td>
+    <td align="center" width="25%"><img src="screenshots/splash_screen00.jpeg" alt="Splash Screen" width="300" /></td>
+    <td align="center" width="25%"><img src="screenshots/mobile_number_screen01.jpeg" alt="Mobile Number Screen" width="270" /></td>
   </tr>
   <tr>
     <td align="center"><sub><b>Splash Screen</b></sub></td>
     <td align="center"><sub><b>Mobile Number Login</b></sub></td>
   </tr>
   <tr>
-    <td align="center" width="30%"><img src="screenshots/otp_screen02.jpeg" alt="OTP Verification Screen" width="300" /></td>
-    <td align="center" width="50%"><img src="screenshots/home_screen03.jpeg" alt="Home Screen" width="350" /></td>
+    <td align="center" width="25%"><img src="screenshots/otp_screen02.jpeg" alt="OTP Verification Screen" width="270" /></td>
+    <td align="center" width="25%"><img src="screenshots/home_screen03.jpeg" alt="Home Screen" width="350" /></td>
   </tr>
   <tr>
     <td align="center"><sub><b>OTP Verification</b></sub></td>
     <td align="center"><sub><b>Home Dashboard</b></sub></td>
   </tr>
   <tr>
-    <td align="center" width="50%"><img src="screenshots/home_screen003.jpeg" alt="Home Screen Alternate View" width="350" /></td>
-    <td align="center" width="50%"><img src="screenshots/receiver_screen04.jpeg" alt="Receiver Screen" width="350" /></td>
+    <td align="center" width="25%"><img src="screenshots/home_screen003.jpeg" alt="Home Screen Alternate View" width="270" /></td>
+    <td align="center" width="25%"><img src="screenshots/receiver_screen04.jpeg" alt="Receiver Screen" width="270" /></td>
   </tr>
   <tr>
     <td align="center"><sub><b>Home Dashboard Alternate View</b></sub></td>
     <td align="center"><sub><b>Receiver Flow</b></sub></td>
   </tr>
   <tr>
-    <td align="center" width="50%"><img src="screenshots/donar_screen05.jpeg" alt="Donate Food Screen" width="350" /></td>
-    <td align="center" width="50%"><img src="screenshots/my_donation_screen06.jpeg" alt="My Donations Screen" width="350" /></td>
+    <td align="center" width="25%"><img src="screenshots/donar_screen05.jpeg" alt="Donate Food Screen" width="270" /></td>
+    <td align="center" width="25%"><img src="screenshots/my_donation_screen06.jpeg" alt="My Donations Screen" width="270" /></td>
   </tr>
   <tr>
     <td align="center"><sub><b>Donate Food Form</b></sub></td>
     <td align="center"><sub><b>My Donations</b></sub></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="screenshots/profile_screen07.jpeg" alt="Profile Screen" width="350" /></td>
+    <td colspan="2" align="center"><img src="screenshots/profile_screen07.jpeg" alt="Profile Screen" width="270" /></td>
   </tr>
   <tr>
     <td colspan="2" align="center"><sub><b>Profile & Donation Summary</b></sub></td>
