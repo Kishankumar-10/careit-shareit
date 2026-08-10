@@ -63,7 +63,7 @@
 
 <table>
   <tr>
-    <td align="center" width="25%"><img src="screenshots/splash_screen00.jpeg" alt="Splash Screen" width="300" /></td>
+    <td align="center" width="25%"><img src="screenshots/splash_screen00.jpeg" alt="Splash Screen" width="270" /></td>
     <td align="center" width="25%"><img src="screenshots/mobile_number_screen01.jpeg" alt="Mobile Number Screen" width="270" /></td>
   </tr>
   <tr>
@@ -72,7 +72,7 @@
   </tr>
   <tr>
     <td align="center" width="25%"><img src="screenshots/otp_screen02.jpeg" alt="OTP Verification Screen" width="270" /></td>
-    <td align="center" width="25%"><img src="screenshots/home_screen03.jpeg" alt="Home Screen" width="350" /></td>
+    <td align="center" width="25%"><img src="screenshots/home_screen03.jpeg" alt="Home Screen" width="270" /></td>
   </tr>
   <tr>
     <td align="center"><sub><b>OTP Verification</b></sub></td>
